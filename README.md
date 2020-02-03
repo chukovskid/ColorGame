@@ -1,2 +1,2 @@
 # ColorGame
-Color squares. Easy &amp; Hard game.
+Guessing the right RGB color. JavaScript, paper.js and howler.js
