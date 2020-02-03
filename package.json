@@ -1,0 +1,16 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "Square color Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "start": "node app.js"
+  },
+  "author": "Dimitar Chukovski",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
